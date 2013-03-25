@@ -1,0 +1,6 @@
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\bin\Debug\GraphAsync1.exe.config
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\obj\Debug\GraphAsync2.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\obj\Debug\GraphAsync1.ConfigureMFCs.resources
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\obj\Debug\GraphAsync1.Form1.resources
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\obj\Debug\GraphAsync1.RecipeView.resources
+C:\Users\Eric\Documents\Visual Studio 2012\Projects\GraphAsync2\GraphAsync2\obj\Debug\GraphAsync2.csproj.GenerateResource.Cache
